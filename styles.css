@@ -1,0 +1,103 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+span {
+  text-decoration-line: underline;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 15%;
+  border-color: #66BFBF;
+  border-width: 10px;
+  margin: 60px auto 60px auto;
+}
+
+p {
+  font-size: 15px;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #b2ebf2
+}
+
+.bottom-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #e4f9f5;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.css-html {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.handshake {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
